@@ -47,8 +47,6 @@ Open a pull request on the original repository to propose your changes.
 License
 This project is licensed under the MIT License. Please review the license file for more information.
 
-For support or questions, you can contact the author at your-email@example.com.
-
 Acknowledgements
 The Gamer's Zone project would like to acknowledge the following resources:
 
